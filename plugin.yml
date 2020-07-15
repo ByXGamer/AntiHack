@@ -1,0 +1,10 @@
+name: AntiHacl
+main: AntiNuke\Main
+version: 0.1
+api: [3.0.0]
+author: ByXGamer
+
+permission:
+  antinuke.yetki:
+    default: false
+    description: Sunucunuzdan Nuke hilesi kullananları yok edin!
